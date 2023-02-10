@@ -1,4 +1,4 @@
 package com.example.workwithgit
 
-class MathTest {
+class MathTest2 {
 }
